@@ -1,5 +1,5 @@
 Get in YouTube <a href="https://youtube.com" target="_blank">
-    <img src="https://wikimedia.org" alt="YouTube Logo" width="200">
+    <img src="https://en.wikipedia.org/wiki/File:YouTube_2024.svg" alt="YouTube Logo" width="200">
 </a>
 
 
