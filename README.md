@@ -1,13 +1,4 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&pause=1000&center=true&vCenter=true&width=900&lines=PROGROUPCO;Building+Across+All+Languages;Code+%7C+Create+%7C+Grow" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ProGroupco/Home?style=social" />
-  <img src="https://img.shields.io/github/forks/ProGroupco/Home?style=social" />
-  <img src="https://img.shields.io/github/issues/ProGroupco/Home" />
-  <img src="https://img.shields.io/github/license/ProGroupco/Home" />
-</p>
 
 ---
 
