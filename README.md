@@ -1,5 +1,5 @@
 <a href="https://youtube.com" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/File:YouTube_2024.svg"  width="200"></img>
+    <img src="https://en.wikipedia.org/wiki/File:YouTube_2024.svg"></img>
 </a>
 
 
