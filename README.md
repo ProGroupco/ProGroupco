@@ -1282,4 +1282,9 @@ See the [Uninstall Guide](docs/cli/uninstall.md) for removal instructions.
 
 <p align="center">
   Built with ❤️ by Google , ProGroupco and the open source community
-</p>
+</p><div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://media1.tenor.com/m/7grBFZJazOMAAAAC/minecraft-block.gif" 
+         alt="Minecraft Block" 
+         style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
+
