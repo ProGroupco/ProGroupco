@@ -1,3 +1,95 @@
+
+<style>
+  body {
+    margin: 0;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .video-container {
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+  }
+
+  video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+
+  .controls {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    opacity: 0;
+    transition: 0.3s;
+  }
+
+  .video-container:hover .controls {
+    opacity: 1;
+  }
+
+  button {
+    padding: 8px 12px;
+    border: none;
+    background: rgba(255,255,255,0.2);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background: rgba(255,255,255,0.4);
+  }
+</style>
+</head>
+
+<body>
+
+<div class="video-container">
+  <video id="video" autoplay loop muted playsinline>
+    <source src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4" type="video/mp4">
+  </video>
+
+  <div class="controls">
+    <button onclick="togglePlay()">⏯</button>
+    <button onclick="toggleMute()">🔊</button>
+    <button onclick="goFullscreen()">⛶</button>
+  </div>
+</div>
+
+<script>
+  const video = document.getElementById("video");
+
+  function togglePlay() {
+    if (video.paused) {
+      video.play();
+    } else {
+      video.pause();
+    }
+  }
+
+  function toggleMute() {
+    video.muted = !video.muted;
+  }
+
+  function goFullscreen() {
+    if (video.requestFullscreen) {
+      video.requestFullscreen();
+    } else if (video.webkitRequestFullscreen) {
+      video.webkitRequestFullscreen();
+    } else if (video.msRequestFullscreen) {
+      video.msRequestFullscreen();
+    }
+  }
+</script>
 <h1 align="center">Social</h1><a href="https://m.youtube.com/channel/UCYsjIvn-cYUT24IbyeoSPjg" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2017/08/youtube_2017-2024-logo_brandlogos.net_2nnlz-768x172.png" hight='200'></img>
 </a><a href="https://www.xbox.com/en-IN/play/user/ProGroup24" target="_blank">
