@@ -1292,5 +1292,6 @@ See the [Uninstall Guide](docs/cli/uninstall.md) for removal instructions.
     <img src="https://media1.tenor.com/m/7grBFZJazOMAAAAC/minecraft-block.gif" 
          alt="Minecraft Block" 
          style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></img>
-</div></html>
+</div><h2 align=center>LEL</h2>
+<p>Fade upp of Python Download and Know More about My Own Programming language </p> <a herf="https://lelofficial.github.io">LELOFFICIAL.GITHUB.IO</a>
 
