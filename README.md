@@ -1,4 +1,4 @@
-
+<html>
 <style>
   body {
     margin: 0;
@@ -1380,5 +1380,5 @@ See the [Uninstall Guide](docs/cli/uninstall.md) for removal instructions.
     <img src="https://media1.tenor.com/m/7grBFZJazOMAAAAC/minecraft-block.gif" 
          alt="Minecraft Block" 
          style="width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></img>
-</div>
+</div></html>
 
