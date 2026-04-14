@@ -1,4 +1,10 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Custom Video Player</title>
+
 <style>
   body {
     margin: 0;
@@ -90,6 +96,9 @@
     }
   }
 </script>
+
+</body>
+</html>
 <h1 align="center">Social</h1><a href="https://m.youtube.com/channel/UCYsjIvn-cYUT24IbyeoSPjg" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2017/08/youtube_2017-2024-logo_brandlogos.net_2nnlz-768x172.png" hight='200'></img>
 </a><a href="https://www.xbox.com/en-IN/play/user/ProGroup24" target="_blank">
