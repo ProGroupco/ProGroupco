@@ -7,11 +7,13 @@
 </a><a href="https://itch.io/profile/progroupco" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr-768x689.png" hight='200'></img>
 </a><a href="https://in.pinterest.com/progroup2026/"><img src="https://brandlogos.net/wp-content/uploads/2025/05/pinterest_2017-logo_brandlogos.net_b92ci-768x142.png"></img></a><img src="https://media.tenor.com/Rc-BMGXkP6AAAAA1/animation-vs-minecraft-animator-vs-animation.webp"></img>
-<br><img src="https://media.tenor.com/0b-PSTc_C64AAAAi/ftmt-cheeper-one-world-game.gif"></img>
-
-<img src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4
-       width="100px">
-</img>
+<br><img src="https://media.tenor.com/0b-PSTc_C64AAAAi/ftmt-cheeper-one-world-game.gif"></img><video src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4" 
+       controls 
+       autoplay 
+       loop 
+       muted 
+       width="100%">
+</video>
 ---
 
 ## 🚀 ProGroupco – Home
