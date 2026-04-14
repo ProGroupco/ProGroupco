@@ -1,10 +1,4 @@
-<video src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4" 
-       controls 
-       autoplay 
-       loop 
-       muted 
-       width="100%">
-</video> <h1 align="center">Social</h1><a href="https://m.youtube.com/channel/UCYsjIvn-cYUT24IbyeoSPjg" target="_blank">
+<h1 align="center">Social</h1><a href="https://m.youtube.com/channel/UCYsjIvn-cYUT24IbyeoSPjg" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2017/08/youtube_2017-2024-logo_brandlogos.net_2nnlz-768x172.png" hight='200'></img>
 </a><a href="https://www.xbox.com/en-IN/play/user/ProGroup24" target="_blank">
     <img src="https://i.pinimg.com/originals/66/f7/e4/66f7e4551bbf844b4853824522ae2ca7.gif" hight='200'></img>
@@ -15,7 +9,9 @@
 </a><a href="https://in.pinterest.com/progroup2026/"><img src="https://brandlogos.net/wp-content/uploads/2025/05/pinterest_2017-logo_brandlogos.net_b92ci-768x142.png"></img></a><img src="https://media.tenor.com/Rc-BMGXkP6AAAAA1/animation-vs-minecraft-animator-vs-animation.webp"></img>
 <br><img src="https://media.tenor.com/0b-PSTc_C64AAAAi/ftmt-cheeper-one-world-game.gif"></img>
 
-
+<img src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4
+       width="100px">
+</img>
 ---
 
 ## 🚀 ProGroupco – Home
