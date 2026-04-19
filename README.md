@@ -2,15 +2,15 @@
     <img src="https://brandlogos.net/wp-content/uploads/2017/08/youtube_2017-2024-logo_brandlogos.net_2nnlz-768x172.png" hight='200'></img>
 </a><a href="https://www.xbox.com/en-IN/play/user/ProGroup24" target="_blank">
     <img src="https://i.pinimg.com/originals/66/f7/e4/66f7e4551bbf844b4853824522ae2ca7.gif" hight='200'></img>
+</a><a href="https://gamejolt.com/@ProGroupco" target="_blank" rel="noopener noreferrer">
+  <img src="https://s.gjcdn.net/assets/c2f3dda5.png" alt="ProGroupco profile image" />
 </a><a href="https://www.facebook.com/profile.php?id=61585955309649"><img src="https://brandlogos.net/wp-content/uploads/2021/04/facebook-icon-768x768.png"></img></a><a herf="https://www.instagram.com/progroup_24/" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2022/07/instagram_glyph_gradient-logo_brandlogos.net_52bks.png" hight='200'></img>
 </a><a href="https://itch.io/profile/progroupco" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2025/12/itch.io-logo_brandlogos.net_bhtjr-768x689.png" hight='200'></img>
 </a><a href="https://in.pinterest.com/progroup2026/"><img src="https://brandlogos.net/wp-content/uploads/2025/05/pinterest_2017-logo_brandlogos.net_b92ci-768x142.png"></img></a><img src="https://media.tenor.com/Rc-BMGXkP6AAAAA1/animation-vs-minecraft-animator-vs-animation.webp"></img>
 <br><img src="https://media.tenor.com/0b-PSTc_C64AAAAi/ftmt-cheeper-one-world-game.gif"></img> 
-<a href="https://gamejolt.com/@ProGroupco" target="_blank" rel="noopener noreferrer">
-  <img src="https://s.gjcdn.net/assets/c2f3dda5.png" alt="ProGroupco profile image" />
-</a><video src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4" 
+<video src="https://raw.githubusercontent.com/ProGroupco/Ggg/main/944cb368-fcf3-4116-887f-d2ffa2bc791c.mp4" 
        controls 
        autoplay 
        loop 
