@@ -3,7 +3,7 @@
 </a><a href="https://www.xbox.com/en-IN/play/user/ProGroup24" target="_blank">
     <img src="https://i.pinimg.com/originals/66/f7/e4/66f7e4551bbf844b4853824522ae2ca7.gif" hight='200'></img>
 </a><a href="https://gamejolt.com/@ProGroupco" target="_blank" rel="noopener noreferrer">
-  <img src="https://s.gjcdn.net/assets/c2f3dda5.png" alt="ProGroupco profile image" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdRRVc7BdiWWV2Yn8f1qidnrllyS17YxtDg&s" alt="ProGroupco profile image" />
 </a><a href="https://www.facebook.com/profile.php?id=61585955309649"><img src="https://brandlogos.net/wp-content/uploads/2021/04/facebook-icon-768x768.png"></img></a><a herf="https://www.instagram.com/progroup_24/" target="_blank">
     <img src="https://brandlogos.net/wp-content/uploads/2022/07/instagram_glyph_gradient-logo_brandlogos.net_52bks.png" hight='200'></img>
 </a><a href="https://itch.io/profile/progroupco" target="_blank">
